@@ -62,3 +62,4 @@ tzlocal==4.2
 vine==5.0.0
 wcwidth==0.1.7
 webencodings==0.5.1
+gunicorn==20.1.0
